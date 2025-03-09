@@ -159,8 +159,8 @@ ________________________________________
 		Fraud Detection (Finance)
 		Demand Forecasting (Retail)
 ________________________________________
-Autonomous Vehicles (Transportation)
-	Emerging Trends
+	Autonomous Vehicles (Transportation)
+		Emerging Trends
 		Multi-Modal AI (CLIP, DALL-E)
 		Neuro-Symbolic AI
 		AI-Powered Drug Discovery
